@@ -1,0 +1,6 @@
+[submodule "greenhouse"]
+	path = greenhouse
+	url = https://github.com/DominikDary/greenhouse.git
+[submodule "greenhouse-android"]
+	path = greenhouse-android
+	url = https://github.com/DominikDary/greenhouse-android
