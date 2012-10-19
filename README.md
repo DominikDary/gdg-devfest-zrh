@@ -29,3 +29,6 @@ To execute the tests pls inmstall first on e.g. an emulator the following apps, 
 
 
 * *[Greenhouse Android app](https://github.com/DominikDary/gdg-devfest-zrh/greenhouse-android.apk/)*
+
+
+An actual sample end-to-end test you can fine here: https://github.com/DominikDary/gdg-devfest-zrh/blob/master/greenhouse-android-tests/src/main/java/sh/calaba/calabashdriver/GreenhousAndroidTests.java
