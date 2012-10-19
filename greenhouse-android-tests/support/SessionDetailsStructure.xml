@@ -1,0 +1,66 @@
+<views
+	activity='ComponentInfo{com.springsource.greenhouse/com.springsource.greenhouse.events.sessions.EventSessionDetailsActivity}'>
+	<view>
+		<type>ViewStub</type>
+		<name>android:id/action_mode_bar_stub</name>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>android:id/title</name>
+		<textViewText>Session Details</textViewText>
+	</view>
+	<view>
+		<type>ListView</type>
+		<name>com.springsource.greenhouse:id/event_session_details_menu</name>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name></name>
+		<textViewText>Favorite</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name></name>
+		<textViewText>Rate</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name></name>
+		<textViewText>Post Tweet</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name></name>
+		<textViewText>Twitter Feed</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_session_details_name</name>
+		<textViewText>Opening Keynote</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_session_details_leaders</name>
+		<textViewText>Rod Johnson</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_session_details_time_and_room</name>
+		<textViewText>2:30vorm. - 3:45vorm., Fr. in Ballroom</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_session_details_favorite</name>
+		<textViewText>Not a Favorite</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_session_details_rating</name>
+		<textViewText>No Ratings</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_session_details_description</name>
+		<textViewText>Rod kicks off #s2gx with a bang.</textViewText>
+	</view>
+</views>

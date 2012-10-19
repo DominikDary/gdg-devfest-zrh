@@ -1,0 +1,56 @@
+<views
+	activity='ComponentInfo{com.springsource.greenhouse/com.springsource.greenhouse.events.EventDetailsActivity}'>
+	<view>
+		<type>ViewStub</type>
+		<name>android:id/action_mode_bar_stub</name>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>android:id/title</name>
+		<textViewText>Event Details</textViewText>
+	</view>
+	<view>
+		<type>ListView</type>
+		<name>com.springsource.greenhouse:id/event_details_menu</name>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name></name>
+		<textViewText>Filtered Sessions</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name></name>
+		<textViewText>Session Schedule</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name></name>
+		<textViewText>Post Tweet</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name></name>
+		<textViewText>Twitter Feed</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_details_name</name>
+		<textViewText>SpringOne 2GX</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_details_date</name>
+		<textViewText>Do., Okt 18 - So., Okt 21, 2012</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_details_location</name>
+		<textViewText>Magnificent Mile Marriott</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_details_description</name>
+		<textViewText>The Spring, Groovy, and Grails event of the year!</textViewText>
+	</view>
+</views>

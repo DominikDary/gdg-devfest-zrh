@@ -1,0 +1,57 @@
+<views
+	activity='ComponentInfo{com.springsource.greenhouse/com.springsource.greenhouse.MainActivity}'>
+	<view>
+		<type>ViewStub</type>
+		<name>android:id/action_mode_bar_stub</name>
+	</view>
+	<view>
+		<type>ImageView</type>
+		<name>android:id/icon</name>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>android:id/title</name>
+		<textViewText>Events</textViewText>
+	</view>
+	<view>
+		<type>ImageView</type>
+		<name>android:id/icon</name>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>android:id/title</name>
+		<textViewText>Profile</textViewText>
+	</view>
+	<view>
+		<type>ImageView</type>
+		<name>android:id/icon</name>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>android:id/title</name>
+		<textViewText>Info</textViewText>
+	</view>
+	<view>
+		<type>ViewStub</type>
+		<name>android:id/action_mode_bar_stub</name>
+	</view>
+	<view>
+		<type>ListView</type>
+		<name>android:id/list</name>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_list_item_title</name>
+		<textViewText>SpringOne 2GX</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_list_item_groupname</name>
+		<textViewText>SpringOne2gx</textViewText>
+	</view>
+	<view>
+		<type>TextView</type>
+		<name>com.springsource.greenhouse:id/event_list_item_date</name>
+		<textViewText>Do., Okt 18 - So., Okt 21, 2012</textViewText>
+	</view>
+</views>
