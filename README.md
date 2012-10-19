@@ -18,6 +18,14 @@ The project contains three projects:
     The calabash-driver tests of the greenhouse-android app.
 
 
-To get started with the greenhouse server app please follow the instructions on my blog:
+To get started with the greenhouse server app, please follow the instructions on my blog:
 http://dary.de/2012/03/greenhouse-application/
 
+Test automation of the greenhouse Android app is done using the Calabash-Android https://github.com/calabash/calabash-android and Calabash-Driver http://calabash-driver.github.com/ open source projects.
+With Calabash-Driver you can write your Calabash-Android end-to-end tests in Java and use the Selenium Grid for scaling and parallel testing.
+To execute the tests pls inmstall first on e.g. an emulator the following apps, that you can find in the download section:
+
+* *[CalabashAndroid TestServer](https://github.com/DominikDary/gdg-devfest-zrh/TestServer_0.3.2.apk/)*
+
+
+* *[Greenhouse Android app](https://github.com/DominikDary/gdg-devfest-zrh/greenhouse-android.apk/)*
